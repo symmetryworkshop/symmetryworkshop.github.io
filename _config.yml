@@ -13,19 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: USS 2021
-tagline: UNIQUE Student Symposium 2021
-email: unique.student.symposium@gmail.com
-twitter_username: ai_unique
-github_username: uss2021
-twitter:
-  - username: ai_unique
-description: USS (UNIQUE Student Symposium) is a student-oriented, student-organized conference at the crossroads of neuroscience and AI research. The goal is to provide graduate students in those fields with an event tailor made to their needs and presenting the state of the art of what is done in neuro-AI research.
-author: UNIQUE Student Symposium 2021
+title: The Symmetry Workshop - ICLR 2022
+tagline: Symmetry and equivariance in learning algorithms and data
+email: symmetryworkshop@protonmail.com
+github_username: symmetryworkshop
+description: Symmetry and equivariance are fundamental to the success of deep learning. In the last few years, encoding symmetry information in neural architectures, in most cases in the form of constructing equivariant networks, has become a key design principle when designing efficient neural networks for structured and complex data. In parallel, symmetry is ubiquitous in science, not only in crystallography and quantum theory, where its role has long been explicitly recognized, but also in chemistry, biology, and others. Unfortunately, symmetry and equivariance are often studied by different communities in isolation, missing out on fruitful synergies and interactions. This workshop aims to bring together researchers at the forefront of symmetry and equivariance from machine learning, statistics, mathematics, and the broader scientific community. The goal of the workshop is to nurture the community of researchers working at the intersection of deep learning, representation theory, and physical science areas, by providing a platform to share ideas from diverse fields and shape the vision of the rapidly growing field of symmetry and equivariance.
+author: The Symmetry Workshop - ICLR 2022
 baseurl: ""
 url: ""
-logo: assets/img/unique-logo-white-favicon.png
-favicon: assets/img/unique-logo-white-favicon.png
+logo: 
+favicon: 
 
 # Reading Files
 include:
@@ -48,7 +45,7 @@ defaults:
       type: "pages"
     values:
       layout: page
-      hero_image: ./assets/img/network-372248-grad.png
+      hero_image: ./assets/img/plant.png
 
 # defaults:
 #   - scope:

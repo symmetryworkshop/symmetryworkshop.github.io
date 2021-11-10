@@ -53,7 +53,6 @@ if __name__ == "__main__":
         "Twitter": "twitter",
         "Pronouns": "pronouns",
         "Photo": "photo",
-        "Committee": "committee",
         }, inplace=True)
     
     # Replace Nan with "none"

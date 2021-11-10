@@ -1,4 +1,4 @@
-# uss2021.github.io
+# symmetryworkshop.github.io
 
 # Run site locally
 ```
